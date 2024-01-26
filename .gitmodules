@@ -1,0 +1,3 @@
+[submodule "merge-submodule-test1"]
+	path = merge-submodule-test1
+	url = https://github.com/hiroto7/merge-submodule-test1.git
